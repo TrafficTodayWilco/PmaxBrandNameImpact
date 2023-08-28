@@ -12,6 +12,7 @@
 //
 // ! Copy this sheet: https://docs.google.com/spreadsheets/d/1YBCu-nnoaQMQydElw5P58FzHbqmUVu1STqn1IRR4Lc4/copy
 // ! Fill in the spreadsheet your brand name in the brandname tab. 
+// ! Place your sheet URL in line 22
 // 
 var config = {
     LOG: false,
